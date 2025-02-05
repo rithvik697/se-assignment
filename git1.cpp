@@ -11,7 +11,7 @@ long long factorial(int n) {
 
 int main() {
     int num;
-    cout << "Enter a number: ";
+    cout << "Enter a number to compute factorial: ";
     cin >> num;
     
     if (num < 0) {
